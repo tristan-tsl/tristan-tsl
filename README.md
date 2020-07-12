@@ -16,12 +16,12 @@ https://github.com/laashub-sda/laas-sda/blob/master/README.md
 
 LAAS化的SUA中台项目, 为上层业务SUA项目提供SUA世界观和组件, SUA: Software Use Automation(软件使用自动化)
 
-https://github.com/laashub-sua/laas-sua/README.md
+https://github.com/laashub-sua/laas-sua/blob/master/README.md
 
 # LaasHubSOA
 
 LAAS化的SOA中台项目, 为上层业务SOA项目提供SOA世界观和组件, SOA: Software Operation Automation(软件运维自动化)
 
-https://github.com/laashub-soa/laas-soa/README.md
+https://github.com/laashub-soa/laas-soa/blob/master/README.md
 
-# 我们一起造福世界
+# 和我们一起造福世界
