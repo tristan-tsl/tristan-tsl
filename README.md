@@ -25,5 +25,3 @@ LaaS化的SOA中台项目, 为上层业务SOA项目提供SOA世界观和组件, 
 https://github.com/laashub-soa/laas-soa/blob/master/README.md
 
 # 多少世俗少纷争, 英雄无花各自成
-
-# 揭开世界的面纱, 窥探天道
