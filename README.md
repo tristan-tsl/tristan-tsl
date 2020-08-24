@@ -6,11 +6,11 @@ https://github.com/laashub/laas/blob/master/README_zh_CN.md
 
 [https://github.com/laashub/laas/blob/master/中台.md](https://github.com/laashub/laas/blob/master/中台.md)
 
-# LaasHubOfData
+# LaasHubOfCapabilityGateway
 
-数据中台
+能力网关
 
-https://github.com/laashub-of-data/laashub-of-data
+https://github.com/laashub-of-capability-gateway/capability-gateway
 
 # LaasHubSDA
 
