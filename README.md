@@ -8,7 +8,7 @@ https://github.com/laashub/laas/blob/master/README_zh_CN.md
 
 # LaasHubOfSCG
 
-服务于LaaS的SCG项目, 为组织的中台打造一个入口级的顶层汇聚, 作为横向领域对每一个中台进行加强, SCG： Software Capability Gateway
+服务于LaaS的SCG项目, 为组织的中台打造一个入口级的顶层汇聚, 作为横向领域对每一个中台进行加强, SCG： Software Capability Gateway(软件能力网关)
 
 https://github.com/laashub-of-scg/scg
 
