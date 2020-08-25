@@ -6,11 +6,11 @@ https://github.com/laashub/laas/blob/master/README_zh_CN.md
 
 [https://github.com/laashub/laas/blob/master/中台.md](https://github.com/laashub/laas/blob/master/中台.md)
 
-# LaasHubOfCapabilityGateway
+# LaasHubOfSCG
 
-能力网关
+服务于LaaS的SCG项目, 为组织的中台打造一个入口级的顶层汇聚, 作为横向领域对每一个中台进行加强, SCG： Software Capability Gateway
 
-https://github.com/laashub-of-capability-gateway/capability-gateway
+https://github.com/laashub-of-scg/scg
 
 # LaasHubSDA
 
