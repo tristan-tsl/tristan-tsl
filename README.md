@@ -12,11 +12,11 @@ https://github.com/laashub/laas/blob/master/README_zh_CN.md
 
 https://github.com/laashub-of-scg/scg
 
-https://github.com/laashub-of-scg/laas-scg-data
+https://github.com/laashub-of-scg/scg-data
 
-https://github.com/laashub-of-scg/laas-scg-customer-service
+https://github.com/laashub-of-scg/scg-customer
 
-https://github.com/laashub-of-scg/laas-scg-questionnaire
+https://github.com/laashub-of-scg/scg-questionnaire
 
 # LaasHubSDA
 
