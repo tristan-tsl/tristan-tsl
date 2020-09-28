@@ -12,12 +12,6 @@ https://github.com/laashub/laas/blob/master/README_zh_CN.md
 
 https://github.com/laashub-of-scg/scg
 
-https://github.com/laashub-of-scg/scg-data
-
-https://github.com/laashub-of-scg/scg-customer
-
-https://github.com/laashub-of-scg/scg-questionnaire
-
 # LaasHubSDA
 
 LaaS化的SDA中台项目, 为上层业务SDA项目提供SDA世界观和组件, SDA: Software Development Automation(软件开发自动化)
