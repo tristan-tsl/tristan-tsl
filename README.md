@@ -1,6 +1,6 @@
 # LaasHub
 
-The Hub For LaaS: Logic as a Service, Focus On Software Automation
+The Hub For LaaS: Logic as a Service, Focus On Automation
 
 https://github.com/laashub/laas/blob/master/README_zh_CN.md
 
