@@ -29,5 +29,3 @@ https://github.com/laashub-sua/laas-sua
 LaaS化的SOA中台项目, 为上层业务SOA项目提供SOA世界观和组件, SOA: Software Operation Automation(软件运维自动化)
 
 https://github.com/laashub-soa/laas-soa
-
-# 多少世俗少纷争, 英雄无花各自成
